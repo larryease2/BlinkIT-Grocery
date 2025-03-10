@@ -28,6 +28,21 @@
       
      - Objective: Evaluate how the age or type of outlet establishment influences total sales
      - Chart type: Line chart
+  
+5. **Sales by Outlet Size:**
+
+      - Objective: analyze the correlation between outlet size and total sales.
+      - Chart type: Donut / Pie Chart.
+
+6. **Sales by Outlet Location:**
+
+      - Objective: Assess the geographic distribution of sales across different locations.
+      - Chart type: Funnel Map
+
+7. **All metrics by Outlet Type:**
+
+      - Objective: Provide a comprehensive view of all key metrics ( Total Sales, Average Sales, Number of Items, Average rating) broken down by different outlet types
+      - Chart type: Matrix Card
    
 
   
